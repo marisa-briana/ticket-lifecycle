@@ -53,6 +53,6 @@ Once the issue has been resolved, the ticket can be closed. In the osTicket syst
 <br />
 
 <p>
- Those are the four stages of the ticket lifecycle!
+Finished 
 </p>
 <br />
